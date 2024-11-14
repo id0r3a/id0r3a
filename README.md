@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm a student currently diving deep into the world
 
 ## 🔗 **Connect with Me**
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/dorsa-moradi-8704182aa/))
-- 🐦 [Twitter/X]([https://twitter.com/your-twitter/](https://x.com/id0r3a))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/dorsa-moradi-8704182aa/))
+- 🐦 [Twitter/X]((https://x.com/id0r3a))
 
 ---
 
@@ -55,8 +55,8 @@ Welcome to my GitHub profile! I'm a student currently diving deep into the world
 
 Here are a few of my projects that I’m especially proud of:
 
-### 1. **[My .NET Project](https://github.com/your-username/dotnet-project)**
-   - 🌐 A simple web application built with **ASP.NET Core** and **Entity Framework**.
+### 1. **[My .NET Project]([https://github.com/your-username/dotnet-project](https://github.com/id0r3a/Inl-mning-3.git))**
+   - 🌐 A simple console application built with **ASP.NET Core** and **Entity Framework**.
    - 🔑 Features: User authentication, CRUD operations, REST API endpoints.
 
 ### 2. **[Blazor WebApp](https://github.com/your-username/blazor-app)**
