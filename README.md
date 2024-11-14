@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Dorsa]!
 
-🎓 **.NET Developer Student** | 👨‍💻 **Passionate about Coding** | 💻 **Based in Gothenburg, Sweden**
+🎓 **.NET Developer Student** | 👨‍💻 **Passionate about Coding** | 💻 **Based in Borås, Sweden**
 
 Welcome to my GitHub profile! I'm a student currently diving deep into the world of software development with a special focus on **.NET** technologies. While **.NET** is my primary interest, I enjoy working with other technologies and building versatile solutions. Feel free to explore my repositories, contribute, or just drop me a message if you want to collaborate!
 
