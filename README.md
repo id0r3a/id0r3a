@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Dorsa]!
+# 👋 Hi, I'm Dorsa!
 
 🎓 **.NET Developer Student** | 👨‍💻 **Passionate about Coding** | 💻 **Based in Borås, Sweden**
 
