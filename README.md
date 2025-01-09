@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a student currently diving deep into the world
 
 - 💡 Advanced **C#** concepts
 - 🧠 **.NET MAUI** (Cross-platform app development)
+- 🗃️ Databases
   
 ---
 
