@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a student currently diving deep into the world
 ### 🧰 **Tools**
 - **Visual Studio** 🖥️
 - **Git & GitHub** 🧑‍💻
--**SSMS 🛠️💾 (SQL Server Management Studio)**
+- **SSMS 🛠️💾 (SQL Server Management Studio)**
   
 ---
 
