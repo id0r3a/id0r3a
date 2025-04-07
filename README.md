@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dorsa!
 
-🎓 **.NET Developer Student** | 👨‍💻 **Passionate about Backend Development** | 💻 **Based in Borås, Sweden**
+🎓 **.NET Developer Student** | 👨‍💻 **Passionate about Backend Development** | 💻 **Based in Gothenburg, Sweden**
 
 Welcome to my GitHub profile! I’m currently diving deep into the world of **.NET backend development** and loving every second of it. I'm passionate about clean code, scalable solutions, and building powerful APIs using modern tools.
 
