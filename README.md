@@ -1,96 +1,96 @@
-# 👋 Hi, I'm Dorsa!
+👋 Hi, I'm Dorsa!
+🎓 .NET Developer Student | 👨‍💻 Passionate about Backend Development | 💻 Based in Borås, Sweden
 
-🎓 **.NET Developer Student** | 👨‍💻 **Passionate about Coding** | 💻 **Based in Borås, Sweden**
+Welcome to my GitHub profile! I’m currently diving deep into the world of .NET backend development and loving every second of it. I'm passionate about clean code, scalable solutions, and building powerful APIs using modern tools.
 
-Welcome to my GitHub profile! I'm a student currently diving deep into the world of software development with a special focus on **.NET** technologies. While **.NET** is my primary interest, I enjoy working with other technologies and building versatile solutions. Feel free to explore my repositories, contribute, or just drop me a message if you want to collaborate!
+🚀 Technologies & Tools
+💻 Languages
+C# 🟩 (My main language)
 
----
+JavaScript (basic understanding for frontends)
 
-## 🚀 Technologies & Tools
+🛠️ Frameworks & Platforms
+ASP.NET Core – Web API, MVC
 
-### 💻 **Programming Languages**
-- **C#** 🟩 (My main language, of course!)
-- **JavaScript** 💙
+Entity Framework Core – Code-first, migrations, seeding
 
-### 🛠️ **Technologies & Frameworks**
-- **.NET Core** 🔥
+RESTful API Design – Clean and consistent endpoints
 
-### 🧰 **Tools**
-- **Visual Studio** 🖥️
-- **Git & GitHub** 🧑‍💻
-- **SSMS 🛠️💾 (SQL Server Management Studio)**
-  
----
+🔧 Dev Tools
+Visual Studio 🖥️
 
-## 📚 **What I'm Learning Right Now**
+Swagger 🌐 (API docs & testing)
 
-- 💡 Advanced **C#** concepts
-- 🧠 **.NET MAUI** (Cross-platform app development)
-- 🗃️ Databases
-  
----
+Postman 📫 (for manual API testing)
 
-## 🌍 **About Me**
+SQL Server Management Studio (SSMS) 🛢️
 
-- 🏠 I live in **Borås, Sweden** 🇸🇪 and I'm passionate about software development.
-- 💼 I have a keen interest in building scalable, maintainable, and performant software.
-- 🚀 I love exploring new tools and frameworks to keep improving my skills.
-- 👨‍💻 I'm constantly working on side projects to apply and expand my knowledge.
-- 🎮 Outside of coding, I enjoy hanging out with my firiends, tech meetups, and exploring new innovations in the tech world.
+Git & GitHub – Version control & collaboration
 
----
+📚 What I'm Learning Right Now
+✅ Advanced C# (.NET 7/8)
 
-## 🔗 **Connect with Me**
+✅ Building and testing Web APIs
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/dorsa-moradi-8704182aa/))
-- 🐦 [Twitter/X]((https://x.com/id0r3a))
+✅ Connecting APIs to SQL databases using EF Core
 
----
+✅ Using Postman and Swagger to simulate real-world API use
 
-## 📈 **GitHub Stats**
+✅ Connecting external APIs (e.g. OpenAI, weather APIs) via HttpClient
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark](https://github.com/id0r3a))
+🌐 Working With APIs
+🔹 What I build:
+Full-featured REST APIs
 
----
+Authentication-ready backend logic (JWT coming soon!)
 
-## 🎯 **Some of My Repositories**
+CRUD endpoints for handling models via EF Core
 
-Here are a few of my projects that I’m especially proud of:
+🔹 How I work:
+Design the API structure and routes
 
-### 1. **[My .NET Project]([https://github.com/your-username/dotnet-project](https://github.com/id0r3a/Inl-mning-3.git))**
-   - 🌐 A simple console application built with **ASP.NET Core** and **Entity Framework**.
-   - 🔑 Features: User authentication, CRUD operations, REST API endpoints.
+Build the logic and DB connection
 
-### 2. **[Blazor WebApp](https://github.com/your-username/blazor-app)**
-   - 🌐 A dynamic web app built using **Blazor** for interactive UI and WebAssembly.
-   - 🎨 Includes custom CSS animations and dark/light mode toggling.
+Document with Swagger
 
-### 3. **[Machine Learning with Python](https://github.com/your-username/ml-python-project)**
-   - 📊 A simple **Python** project focused on predicting data trends using **scikit-learn**.
-   - 🔬 Built on top of real-world datasets for analysis and prediction.
+Test using Postman
 
----
+Consume via frontends or clients
 
-## 📝 **Fun Facts & Random Stuff**
+📈 GitHub Stats
 
-- 💡 I prefer to work in a **dark theme** (Visual Studio, GitHub, etc.). 😎
-- 🏞️ I love nature and try to take breaks with walks in Borås's parks.
-- 🎧 I listen to podcasts and tech-related audiobooks while coding.
+📂 Featured Projects
+🔸 Inlämning 3 – ASP.NET Core API
+✅ ASP.NET Core Web API using EF Core
 
----
+✅ CRUD endpoints
 
-## 🐦 **Fun GitHub Gifs & Emojis**
+✅ SQL Server integration
 
-![Coding Gif](https://media.giphy.com/media/l0HlXnSXIyMBGf66w/giphy.gif)
+✅ Tested via Swagger and Postman
 
-![GitHub Gif](https://media.giphy.com/media/62bd7AqONQuRuo3KJ6/giphy.gif)
+🔸 External API Integration (ChatGPT)
+🧠 Integration of OpenAI (ChatGPT) via HttpClient
 
----
+✅ POST endpoint for sending user prompts
 
-## 💬 **Feel free to reach out!**
+✅ API key config via appsettings.json
 
-If you have any questions or just want to chat about tech, don't hesitate to reach out! Let's code and create amazing things together! 🚀
+More projects coming soon as I continue learning and exploring! 🚀
 
----
+🏞️ About Me
+📍 Based in Borås, Sweden 🇸🇪
 
-#### 👨‍💻 **Let's make something great** together!
+🧠 I enjoy clean, efficient backend logic and well-documented APIs
+
+🎯 Focused on mastering the .NET ecosystem
+
+🧑‍💻 Constantly coding, learning, and building
+
+📫 Connect With Me
+💼 LinkedIn
+
+🐦 Twitter / X
+
+💬 Let's Collaborate!
+If you're into APIs, backend dev, or want to build something cool with C# and .NET — reach out! I'm always happy to collaborate, brainstorm, or just chat code 😊
