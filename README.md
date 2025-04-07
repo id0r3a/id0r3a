@@ -28,11 +28,11 @@ Welcome to my GitHub profile! I’m currently diving deep into the world of **.N
 
 ## 📚 **What I'm Learning Right Now**
 
-- ✅ Advanced C# (.NET 7/8)
-- ✅ Building and testing Web APIs
-- ✅ Connecting APIs to SQL databases using EF Core
-- ✅ Using Postman and Swagger to simulate real-world API use
-- ✅ Connecting external APIs (e.g. OpenAI, weather APIs) via `HttpClient`
+- 🧠✅ Advanced C# (.NET 7/8)
+- 🔧🚀 Building and testing Web APIs
+- 🔗🗃️ Connecting APIs to SQL databases using EF Core
+- 🧪🧰 Using Postman and Swagger to simulate real-world API use
+- 🌐🤖 Connecting external APIs (e.g. OpenAI, weather APIs) via `HttpClient`
 
 ---
 
