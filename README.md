@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I’m currently diving deep into the world of **.N
 
 ## 🏞️ **About Me**
 
-- 📍 Based in **Borås, Sweden** 🇸🇪  
+- 📍 Based in **Gothenburg, Sweden** 🇸🇪  
 - 🧠 I enjoy clean, efficient backend logic and well-documented APIs  
 - 🎯 Focused on mastering the .NET ecosystem  
 - 🧑‍💻 Constantly coding, learning, and building  
